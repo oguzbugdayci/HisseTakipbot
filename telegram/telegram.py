@@ -5,7 +5,7 @@ from telegram.tvVeri import gorselLinkGetir as gg, temel
 from mesajlar import Mesajlar
 
 
-bot = telebot.TeleBot("TELEGRAM_BOT_TOKEN", parse_mode="HTML")
+bot = telebot.TeleBot("7388685273:AAGJIwDueYftHmB1wwkMJGarrI7AcGBV3U8", parse_mode="HTML")
 
 
 #! Kullanıcı ilk kayıt yaptığı esnada veritabanında kontrol edilir. Varsa kayıt olabilir.
